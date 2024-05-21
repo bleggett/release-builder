@@ -55,7 +55,7 @@ var (
 		"manifests/charts/gateways/istio-ingress",
 		"manifests/charts/istio-cni",
 		"manifests/charts/ztunnel",
-		"manifests/charts/istio-control/istio-discovery",
+		"manifests/charts/istio-discovery",
 		"manifests/charts/istio-operator",
 		"manifests/charts/istiod-remote",
 		"manifests/charts/ambient",
@@ -68,7 +68,7 @@ var (
 		"manifests/charts/gateway",
 		"manifests/charts/istio-cni",
 		"manifests/charts/ztunnel",
-		"manifests/charts/istio-control/istio-discovery",
+		"manifests/charts/istio-discovery",
 		"manifests/charts/ambient",
 	}
 )
